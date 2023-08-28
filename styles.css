@@ -102,6 +102,14 @@
     font-size: 32px;
     padding: 25px;
   }
+
+  .comentarios {
+  
+    color: #FFF;
+    font-family: Kameron;
+    font-size: 32px;
+
+  }
   
   /* Limpa seção e coluna caso não exista*/
     section::after {
