@@ -9,6 +9,7 @@
   .banner {
      display: flex;
      justify-content: space-evenly;
+     transform: translate(-50%, -50%);
       }
   
   .corpo {
