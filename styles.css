@@ -65,6 +65,16 @@
   }
 
 
+  .ITEM{
+
+    text-align: center;
+    font-size: 24px;
+    font-family: Lalezar;
+    color: white;
+
+  }
+
+
   .segunda_placa {
     float: center;
     padding: 20px;
