@@ -7,8 +7,6 @@
 
 
   .banner {
-     width: auto;
-     height: auto;
      display: flex;
      justify-content: stretch;
       }
