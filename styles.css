@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    margin:0;
+    margin:0 0;
     padding:0;
 
   }
@@ -73,7 +73,7 @@
   /* Estilo do Rodapé */
   footer {
     background-color: #7882D8;
-    padding: 70px;
+    padding: 35px;
     text-align: center;
     color: white;
   }
