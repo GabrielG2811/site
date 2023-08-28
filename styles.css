@@ -20,7 +20,7 @@
 
 
   /* Estilo do cabeçalho*/
-  header {
+  .menu_principal {
     background-color:tomato;
     padding: 30px;
     text-align: center;
