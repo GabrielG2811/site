@@ -15,7 +15,7 @@
   .titulo1 {
     padding: 30px;
     text-align: center;
-    font-size: 24px;
+    font-size: 48px;
     color: #687843;
 
   }
@@ -26,7 +26,7 @@
         width: 100%;
         background-color: #ffffff;
         height: 622px; 
-        font-size: 26px;
+        font-size: 32px;
       }
 
 
@@ -48,8 +48,6 @@
     display: flex;
   }
   
-  
-
   
   /* Limpa seção e coluna caso não exista*/
     section::after {
