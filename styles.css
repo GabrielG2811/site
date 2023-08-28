@@ -39,23 +39,9 @@
     display: flex;
   }
   
-  /* Cria duas colunas */
-  nav {
-    float: left;
-    width: 30%;
-    height: 600px; 
-    background: #ccc;
-    padding: 20px;
-  }
-  
-  /* Estilo do menu*/
-  nav ul {
-    list-style-type: none;
-    padding: 0;
-  }
   
   /* Estilo da Area de Artigo*/
-  article {
+  .Texto_Titulo1 {
     float: left;
     padding: 20px;
     width: 100%;
