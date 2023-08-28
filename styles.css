@@ -8,7 +8,7 @@
 
   .banner {
      width: auto;
-     height: 414px;
+     height: auto;
      flex-shrink: 0;
      display: flex;
      justify-content: stretch;
