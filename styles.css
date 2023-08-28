@@ -2,6 +2,8 @@
     box-sizing: border-box;
     margin:0 0;
     padding:0;
+    display: -webkit-flex;
+    display: flex;
 
   }
   
@@ -40,6 +42,14 @@
     display: flex;
     justify-content: space-around;
     margin: 0 5px;
+  }
+
+
+  .segunda_placa {
+
+
+
+
   }
   
   /* Transforma o que tiver dentro em espaço flexivel */
