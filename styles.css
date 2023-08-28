@@ -9,7 +9,8 @@
   .banner {
      display: flex;
      justify-content: space-evenly;
-     transform: translate(-50%, -50%);
+     transform: translate(-25%, -75%);
+     text-align: center;
       }
   
   .corpo {
