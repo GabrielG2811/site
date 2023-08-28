@@ -10,6 +10,15 @@
     background-size: 100% 100%;
   }
   
+  .titulo1 {
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+
+  }
+
+
   /* Estilo do cabeçalho*/
   header {
     background-color:tomato;
@@ -58,7 +67,7 @@
   
   /* Estilo do Rodapé */
   footer {
-    background-color: #777;
+    background-color: #bb2222;
     padding: 70px;
     text-align: center;
     color: white;
