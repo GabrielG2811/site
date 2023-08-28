@@ -7,7 +7,7 @@
 
 
   .banner {
-     display: flex;
+     display: auto;
      justify-content: space-evenly;
      transform: translate(-75%, -25%);
      text-align: center;
