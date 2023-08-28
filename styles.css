@@ -19,6 +19,15 @@
     color: #687843;
 
   }
+    /* Estilo da Area de Artigo*/
+    .Texto_Titulo1 {
+        float: center;
+        padding: 20px;
+        width: 50%;
+        background-color: #ffffff;
+        height: 622px; 
+        font-size: 26px;
+      }
 
 
   /* Estilo do cabeçalho*/
@@ -40,15 +49,7 @@
   }
   
   
-  /* Estilo da Area de Artigo*/
-  .Texto_Titulo1 {
-    float: left;
-    padding: 20px;
-    width: 50%;
-    background-color: #ffffff;
-    height: 622px; 
-    font-size: 26px;
-  }
+
   
   /* Limpa seção e coluna caso não exista*/
     section::after {
