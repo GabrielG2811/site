@@ -47,9 +47,19 @@
     float: center;
     padding: 20px;
     width: 100%;
-    background-color: #ffffff;
+    background-color: #7882D8;
     height: 622px; 
   
+  }
+
+  .titulo2{
+    color: #687843;
+    text-align: center;
+    font-family: Lalezar;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
   }
   
   /* Transforma o que tiver dentro em espaço flexivel */
