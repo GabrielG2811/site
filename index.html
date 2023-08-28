@@ -1,147 +1,56 @@
 <!DOCTYPE html>
+
 <html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+  </head>
 
-<style>
 
-* {
-  box-sizing: border-box;
-}
+<body class="corpo">
 
-body {
-  background-image: url('fundo.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-
-/* Estilo do cabeçalho*/
-header {
-  background-color:tomato;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
-}
-
-/* Transforma o que tiver dentro em espaço flexivel */
-section {
-  display: -webkit-flex;
-  display: flex;
-}
-
-/* Cria duas colunas */
-nav {
-  float: left;
-  width: 30%;
-  height: 600px; 
-  background: #ccc;
-  padding: 20px;
-}
-
-/* Estilo do menu*/
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-/* Estilo da Area de Artigo*/
-article {
-  float: left;
-  padding: 20px;
-  width: 100%;
-  background-color: #f1f1f1;
-  height: 600px; 
-}
-
-/* Limpa seção e coluna caso não exista*/
-  section::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Estilo do Rodapé */
-footer {
-  background-color: #777;
-  padding: 70px;
-  text-align: center;
-  color: white;
-}
-
-/* Layout Responsivo transforma tudo em duas colunas para caber na tela do celular*/
-@media (max-width: 600px) {
-  nav, article {
-    width: 100%;
-    height: auto;
-  }
-}
-
-/* Grid para colocar imagens*/
-grid {
-  background-color: #777;
-  text-align: left;
-  float: left;
+    <header>
   
-}
 
-</style>
-
-<body>
-
-<header>
-  <h1 style="background-color:tomato; font-size:160%; text-align:center; font-size:50px;">Inteligencia Artificial</h1>
-</header>
+    </header>
 
 
-<p style=" font-family:verdana; font-size:90%; color:white;">Aprendizado de Máquina - </p>
+              <section class="primeira_placa">
 
-<section>
+                      <h1>Titulo do Site</h1>
+
+                     <article>
+                      Albert Einstein foi um renomado físico teórico que revolucionou nossa compreensão do universo. Sua teoria da relatividade trouxe uma nova perspectiva sobre o espaço, o tempo e a gravidade, desafiando as concepções tradicionais da física clássica. Além de suas contribuições científicas, Einstein também era conhecido por sua mente criativa e pensamento profundo sobre questões filosóficas e sociais, tornando-se uma das figuras mais icônicas e influentes do século XX.
+
+                     </article>
+
+             </section>
+             
 
 
-<nav>
-    <ul>
-      <li><a href="#">Página Inicial</a></li>
-      <li><a href="#">Inteligencia Artificial Tesla</a></li>
-      <li><a href="#">Robo Sofia</a></li>
-      <li><a href="#">Aprendizado de Maquina</a></li>
-      <li><a href="#">Novidades Tecnologicas</a></li>
-      <li><a href="#">Cursos Grátis de Ti na Internet</a></li>
-      <li><a href="#">Open AI e ChatGPT</a></li>
-    </ul>
-  </nav>
+             <section class="segunda_placa">
 
- <img src="img_machine.png" alt="Inteligencia Artificial" width="600" height="600">  
+              <h1>Exemplo de lista</h1>
 
- <article>
-    <h1>Futuro?</h1>
-   <p style="font-family:verdana; font-size:100%; color:red;">Entre matrizes complexas do aprendizado de maquina, percpitron neuronio indecifravel para programadores de IA</p>
+             </section>
 
-    <p>Uma inteligencia Artificial que tem todo conhecimento da internet poderia ser prejudicial?</p>
+             <section class="terceira_placa">
 
-    <p>O que é uma Inteligencia Artificial Geral?</p>
+              <h1>Exemplo de Tabela</h1>
 
-    <p>O desenvolvimento da inteligência geral artificial (AGI) que supera a inteligência humana levanta preocupações de longo prazo para a humanidade. A perspectiva da AGI pode levar a consequências não intencionais e potencialmente catastróficas, pois esses sistemas avançados de IA podem não estar alinhados com os valores ou prioridades humanos.</p>
+             </section>
 
-    <p>A crescente dependência de comunicação e interações orientadas por IA pode levar à diminuição da empatia, das habilidades sociais e das conexões humanas. Para preservar a essência de nossa natureza social, devemos nos esforçar para manter um equilíbrio entre tecnologia e interação humana.</p>
+             <section class="quarta_placa">
 
-    <p>Incutir valores morais e éticos em sistemas de IA, especialmente em contextos de tomada de decisão com consequências significativas, apresenta um desafio considerável. Pesquisadores e desenvolvedores devem priorizar as implicações éticas das tecnologias de IA para evitar impactos sociais negativos.</p>
+              <h1>Exemplo de Multimidia</h1>
 
-    <p>É crucial desenvolver novas estruturas legais e regulamentações para abordar as questões exclusivas decorrentes das tecnologias de IA, incluindo responsabilidade e direitos de propriedade intelectual. Os sistemas jurídicos devem evoluir para acompanhar os avanços tecnológicos e proteger os direitos de todos. </p>
+             </section>
 
-  </article>
-
-</section>
-
-<footer>
-  <p>Todos os Direitos Reservados</p>
-
-  <grid>
-    <img src="logo.jpg" alt="Logo" width="100" height="100"> 
-    <img src="logo2.jpg" alt="Logo" width="100" height="100"> 
-  </grid>
-  
-</footer>
 
 </body>
 
+
+<footer>
+  <p>Todos os Direitos Reservados</p>
+  
+</footer>
 </html>

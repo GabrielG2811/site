@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+
+  }
+  
+  .corpo {
+    background-image: url('fundo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  
+  /* Estilo do cabeçalho*/
+  header {
+    background-color:tomato;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  
+  /* Transforma o que tiver dentro em espaço flexivel */
+  section {
+    display: -webkit-flex;
+    display: flex;
+  }
+  
+  /* Cria duas colunas */
+  nav {
+    float: left;
+    width: 30%;
+    height: 600px; 
+    background: #ccc;
+    padding: 20px;
+  }
+  
+  /* Estilo do menu*/
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Estilo da Area de Artigo*/
+  article {
+    float: left;
+    padding: 20px;
+    width: 100%;
+    background-color: #f1f1f1;
+    height: 600px; 
+  }
+  
+  /* Limpa seção e coluna caso não exista*/
+    section::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Estilo do Rodapé */
+  footer {
+    background-color: #777;
+    padding: 70px;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Layout Responsivo transforma tudo em duas colunas para caber na tela do celular*/
+  @media (max-width: 600px) {
+    nav, article {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
+  /* Grid para colocar imagens*/
+  grid {
+    background-color: #777;
+    text-align: left;
+    float: left;
+    
+  }
