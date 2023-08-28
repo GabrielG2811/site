@@ -10,6 +10,10 @@
      width: 1440px;
      height: 414px;
      flex-shrink: 0;
+     display: flex;
+    justify-content: space-around;
+    margin: 0 5px;
+
 
   }
   
