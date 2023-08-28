@@ -15,7 +15,7 @@
   .titulo1 {
     padding: 30px;
     text-align: center;
-    font-size: 35px;
+    font-size: 24px;
     color: white;
 
   }
@@ -24,13 +24,13 @@
   /* Estilo do cabeçalho*/
   .menu_principal {
     background-color:#7882D8;
-    padding: 30px;
+    padding: 10px;
     text-align: center;
-    font-size: 36px;
+    font-size: 24px;
     color: white;
     display: flex;
     justify-content: space-around;
-    margin: 0 16px;
+    margin: 0 5px;
   }
   
   /* Transforma o que tiver dentro em espaço flexivel */
