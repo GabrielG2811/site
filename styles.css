@@ -20,7 +20,7 @@
   }
   
   /* Transforma o que tiver dentro em espaço flexivel */
-  section {
+  .p.primeira_placa {
     display: -webkit-flex;
     display: flex;
   }
