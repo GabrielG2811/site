@@ -4,6 +4,12 @@
     padding:0;
 
   }
+
+
+  .banner {
+    height: 414px; 
+
+  }
   
   .corpo {
     background-image: url('fundo.jpg');
