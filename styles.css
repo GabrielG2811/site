@@ -11,7 +11,7 @@
      height: 414px;
      flex-shrink: 0;
      display: flex;
-    justify-content: space-around;
+    justify-content: stretch;
     margin: 0 5px;
 
 
