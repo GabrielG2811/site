@@ -33,6 +33,9 @@
         width: 100%;
         background-color: #ffffff;
         height: 622px; 
+        color: #000;
+        text-align: justify;
+        font-family: Kameron;
         font-size: 32px;
       }
 
