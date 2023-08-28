@@ -46,10 +46,12 @@
 
 
   .segunda_placa {
-
-
-
-
+    float: center;
+    padding: 20px;
+    width: 100%;
+    background-color: #ffffff;
+    height: 622px; 
+  
   }
   
   /* Transforma o que tiver dentro em espaço flexivel */
