@@ -9,7 +9,7 @@
   .banner {
      display: flex;
      justify-content: space-evenly;
-     transform: translate(-25%, -75%);
+     transform: translate(-75%, -25%);
      text-align: center;
      width: 100%;
       }
