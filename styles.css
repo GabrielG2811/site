@@ -9,7 +9,6 @@
   .banner {
      width: auto;
      height: auto;
-     flex-shrink: 0;
      display: flex;
      justify-content: stretch;
       }
