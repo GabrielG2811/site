@@ -16,8 +16,7 @@
 
   .imagembanner {
     display: flex;
-    justify-content: space-evenly;
-   /* transform: translate(-0%, -50%);  */
+    justify-content: center;
     text-align: center;
     width: 100%;
 
