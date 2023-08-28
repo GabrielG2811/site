@@ -95,6 +95,11 @@
     display: flex;
   }
   
+  .item_list{
+    color: #DFDED6;
+    font-family: Kameron;
+    font-size: 32px;
+  }
   
   /* Limpa seção e coluna caso não exista*/
     section::after {
