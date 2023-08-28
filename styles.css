@@ -11,14 +11,15 @@
      height: 414px;
      flex-shrink: 0;
      display: flex;
-    justify-content: stretch;
+     justify-content: stretch;
       }
   
   .corpo {
-    background-image: url('fundo.jpg');
+
+    /* background-image: url('fundo.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;
+    background-size: 100% 100%; */
   }
   
   .titulo1 {
