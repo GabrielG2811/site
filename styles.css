@@ -56,10 +56,6 @@
   .menu_principal {
     background-color:#7882D8;
     padding: 10px;
-    text-align: center;
-    font-size: 24px;
-    font-family: Lalezar;
-    color: white;
     display: flex;
     justify-content: space-around;
   }
