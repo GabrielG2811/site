@@ -12,10 +12,7 @@
      flex-shrink: 0;
      display: flex;
     justify-content: stretch;
-    margin: 0 5px;
-
-
-  }
+      }
   
   .corpo {
     background-image: url('fundo.jpg');
