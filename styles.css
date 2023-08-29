@@ -75,8 +75,11 @@
   }
 
   .primeira_placa {
-    display: -webkit-flex;
-    display: flex;
+    float: center;
+    padding: 20px;
+    width: 100%;
+    background-color: #ffffff;
+    height: 825px; 
      
   }
 
