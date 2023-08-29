@@ -165,13 +165,20 @@
   }
 
   .primeiro_card {
-
-   
     text-align: center;
     width: 677px;
     height: 366px;
     display: flex;
   
+    }
+
+    .card1_div {
+      text-align: center;
+      width: 800px;
+      height: 400px;
+      display: flex;
+      background-color: #FFF;
+
     }
   
   /* Limpa seção e coluna caso não exista
