@@ -166,6 +166,8 @@
 
    background-image: image(card1);
     text-align: center;
+    width: 677;
+  height: 366px;
     }
   
   /* Limpa seção e coluna caso não exista
