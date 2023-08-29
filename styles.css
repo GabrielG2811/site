@@ -150,6 +150,17 @@
     line-height: normal;
     padding: 35px;
   }
+ .cards_div {
+   
+  float: center;
+  padding: 10px;
+  width: 331px;
+  background-color: #ECECEC;
+  height: 673px;
+
+
+ }
+
 
   .card1 {
   display: flex;
