@@ -143,6 +143,7 @@
   }
 
   .titulo4{
+    
     color: #687843;
     font-family: Lalezar;
     font-size: 48px;
@@ -155,6 +156,7 @@
 
 
   .cards_div {
+
   display: flex;
   width: 677px;
   height: 366px;
@@ -165,6 +167,7 @@
   }
 
   .primeiro_card {
+
     text-align: center;
     width: 677px;
     height: 366px;
