@@ -49,7 +49,7 @@
         text-align: justify;
         font-family: Kameron;
         font-size: 32px;
-        margin: 0 15px 0 15px;
+        margin: 0 0 0 0;
       }
 
 
@@ -114,6 +114,8 @@
   
   /* Transforma o que tiver dentro em espaço flexivel */
   .corpo {
+    display: -webkit-flex;
+    display: flex;
     
   }
   
