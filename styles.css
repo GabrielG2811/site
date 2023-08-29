@@ -168,8 +168,7 @@
   height: 366px;
   text-align: center;
   justify-content: space-around;
-  padding: 25px;
-  margin: 50px;
+ 
 
   }
 
@@ -178,7 +177,9 @@
    background-image: image(card1);
     text-align: center;
     width: 677;
-  height: 366px;
+    height: 366px;
+    padding: 25px;
+    margin: 50px;
     }
   
   /* Limpa seção e coluna caso não exista
