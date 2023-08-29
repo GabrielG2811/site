@@ -122,6 +122,16 @@
     line-height: normal;
     padding: 35px;
   }
+
+  .titulo4{
+    color: #687843;
+    font-family: Lalezar;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 35px;
+  }
   
   /* Limpa seção e coluna caso não exista
     section::after {
