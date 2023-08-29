@@ -22,6 +22,15 @@
   }
 
   
+  
+  .corpo {
+
+    /* background-image: url('fundo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; */
+  }
+  
   .titulo1 {
     padding: 50px;
     text-align: center;
@@ -143,7 +152,6 @@
   }
 
   .titulo4{
-    
     color: #687843;
     font-family: Lalezar;
     font-size: 48px;
@@ -156,9 +164,8 @@
 
 
   .cards_div {
-
   display: flex;
-  width: 677px;
+  width: 677;
   height: 366px;
   text-align: center;
   justify-content: space-around;
@@ -168,14 +175,12 @@
 
   .primeiro_card {
 
+   background-image: image(card1);
     text-align: center;
-    width: 677px;
+    width: 677;
     height: 366px;
-    display: flex;
   
     }
-
-   
   
   /* Limpa seção e coluna caso não exista
     section::after {
@@ -192,7 +197,7 @@
    
   }
   .frase_rodape{
-    justify-content: center;
+    
     text-align: center;
     color: white;
     font-size: 35px;
