@@ -74,6 +74,7 @@
   }
 
   .primeira_placa {
+    float: center;
     padding: 20px;
     width: 100%;
     background-color: #ffffff;
@@ -112,8 +113,6 @@
   
   /* Transforma o que tiver dentro em espaço flexivel */
   .corpo {
-    display: -webkit-flex;
-    display: flex;
     
   }
   
