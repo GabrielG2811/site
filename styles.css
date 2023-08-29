@@ -150,6 +150,13 @@
     line-height: normal;
     padding: 35px;
   }
+
+  .card1 {
+  display: flex;
+  width: 311px;
+  height: 366;
+
+  }
   
   /* Limpa seção e coluna caso não exista
     section::after {
