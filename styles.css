@@ -164,7 +164,7 @@
 
   .primeiro_card {
 
-    background-image: -webkit-image-set(card1);
+   background-image: image(card1);
     text-align: center;
     }
   
