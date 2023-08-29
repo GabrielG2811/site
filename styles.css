@@ -84,10 +84,11 @@
 
   .terceira_placa {
 
-    background-color:#ECECEC;
-    padding: 10px;
-    display: flex;
-    justify-content: space-around;
+    float: center;
+    padding: 20px;
+    width: 100%;
+    background-color: #ECECEC;
+    height: 622px; 
 
   }
   .titulo2{
