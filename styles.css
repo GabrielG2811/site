@@ -172,14 +172,7 @@
   
     }
 
-    .card1_div {
-      text-align: center;
-      width: 800px;
-      height: 400px;
-      display: flex;
-      background-color: #FFF;
-
-    }
+   
   
   /* Limpa seção e coluna caso não exista
     section::after {
