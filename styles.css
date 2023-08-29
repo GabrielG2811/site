@@ -157,6 +157,8 @@
   display: flex;
   width: 311px;
   height: 366;
+  text-align: center;
+  justify-content: space-around;
 
   }
   
