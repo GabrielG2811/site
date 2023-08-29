@@ -59,6 +59,8 @@
     padding: 1px;
     display: flex;
     justify-content: space-around;
+    height: 92px; 
+    width: 1440px;
   }
 
 
