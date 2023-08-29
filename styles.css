@@ -13,14 +13,14 @@
      
       }
 
-  .imagembanner {
+  /*.imagembanner {
     display: flex;
     text-align: center;
     width: 100%;
     object-fit: cover;
-    height: 414px;
+    height: 414px;}*/
 
-  }
+  
   
   .corpo {
 
