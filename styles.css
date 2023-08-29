@@ -56,7 +56,7 @@
   /* Estilo do cabeçalho*/
   .menu_principal {
     background-color:#7882D8;
-    padding: 5px;
+    padding: 1px;
     display: flex;
     justify-content: space-around;
   }
@@ -83,6 +83,7 @@
    
 
   .terceira_placa {
+
     float: center;
     padding: 20px;
     width: 100%;
@@ -114,6 +115,7 @@
   }
 
   .comentarios {
+  
     color: #FFF;
     font-family: Kameron;
     font-size: 32px;
@@ -121,6 +123,7 @@
 
   }
   .comentarios2 {
+  
     color: #939BAB;
     font-family: Kameron;
     font-size: 32px;
