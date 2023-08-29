@@ -22,6 +22,15 @@
   }
 
   
+  
+  .corpo {
+
+    /* background-image: url('fundo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; */
+  }
+  
   .titulo1 {
     padding: 50px;
     text-align: center;
@@ -65,7 +74,6 @@
   }
 
   .primeira_placa {
-    float: center;
     padding: 20px;
     width: 100%;
     background-color: #ffffff;
@@ -102,6 +110,12 @@
     padding: 35px;
   }
   
+  /* Transforma o que tiver dentro em espaço flexivel */
+  .corpo {
+    display: -webkit-flex;
+    display: flex;
+    
+  }
   
   .item_list{
     color: #DFDED6;
@@ -119,6 +133,7 @@
 
   }
   .comentarios2 {
+  
     color: #939BAB;
     font-family: Kameron;
     font-size: 32px;
