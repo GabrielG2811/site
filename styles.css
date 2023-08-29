@@ -80,7 +80,16 @@
     height: 622px; 
   
   }
+   
 
+  .terceira_placa {
+
+    background-color:#ECECEC;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+
+  }
   .titulo2{
     color: #687843;
     font-family: Lalezar;
