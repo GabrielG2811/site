@@ -101,7 +101,7 @@
   }
   
   /* Transforma o que tiver dentro em espaço flexivel */
-  .primeira_placa {
+  .corpo {
     display: -webkit-flex;
     display: flex;
   }
