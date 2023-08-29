@@ -153,14 +153,20 @@
  
 
 
-  .primeiro_card {
+  .cards_div {
   display: flex;
-  width: auto;
+  width: 677;
   height: 366px;
   text-align: center;
   justify-content: space-around;
 
   }
+
+  .card1 {
+
+    background-image: -webkit-image-set();
+    text-align: center;
+    }
   
   /* Limpa seção e coluna caso não exista
     section::after {
