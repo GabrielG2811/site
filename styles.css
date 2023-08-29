@@ -101,11 +101,6 @@
     padding: 35px;
   }
   
-  /* Transforma o que tiver dentro em espaço flexivel */
-  .corpo {
-    display: -webkit-flex;
-    
-  }
   
   .item_list{
     color: #DFDED6;
