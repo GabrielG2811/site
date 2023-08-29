@@ -156,7 +156,7 @@
 
   .cards_div {
   display: flex;
-  width: 677;
+  width: 677px;
   height: 366px;
   text-align: center;
   justify-content: space-around;
@@ -168,7 +168,7 @@
 
    background-image: image(card1);
     text-align: center;
-    width: 677;
+    width: 677px;
     height: 366px;
     display: flex;
   
