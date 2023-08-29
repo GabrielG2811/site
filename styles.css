@@ -166,7 +166,7 @@
 
   .primeiro_card {
 
-   background-image: image(card1);
+   
     text-align: center;
     width: 677px;
     height: 366px;
@@ -189,7 +189,7 @@
    
   }
   .frase_rodape{
-    
+    justify-content: center;
     text-align: center;
     color: white;
     font-size: 35px;
