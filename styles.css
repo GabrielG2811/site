@@ -187,6 +187,7 @@
       text-align: center;
       justify-content: space-around;
       display: flex;
+      background-color:white;
     }
 
     .linha_titulo_card {
@@ -194,6 +195,7 @@
       text-align: center;
       justify-content: space-around;
       display: flex;
+      background-color:white;
     }
 
     .linha_texto_card {
@@ -204,6 +206,7 @@
       color: #939BAB;
       font-family: 'Kameron', serif;
       font-size: 32px;
+      background-color:white;
     }
   
   /* Limpa seção e coluna caso não exista
