@@ -155,24 +155,33 @@
   }
  
 
-
-  .cards_div {
-  display: flex;
-  width: 677;
-  height: 366px;
-  text-align: center;
-  justify-content: space-around;
- 
-
-  }
-
   .primeiro_card {
 
    background-image: image(card1);
     text-align: center;
     width: 677;
     height: 366px;
+    text-align: center;
+    justify-content: space-around;
+    display: flex;
   
+    }
+
+    .titulo_card {
+      color: #687843;
+      font-family: 'Lalezar', cursive;
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+
+    }
+
+
+    .text_card {
+      color: #939BAB;
+      font-family: 'Kameron', serif;
+      font-size: 32px;
     }
   
   /* Limpa seção e coluna caso não exista
