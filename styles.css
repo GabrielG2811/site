@@ -101,9 +101,9 @@
     padding: 35px;
   }
   
-  
-  .corpo {
   /* Transforma o que tiver dentro em espaco flexivel */
+  .corpo {
+  
     
   }
   
@@ -182,8 +182,8 @@
     }*/
 
     .linha_imagem_card {
-      width: 100%;
-      height: 300px;
+      width: 307;
+      height: 366px;
       text-align: center;
       justify-content: space-around;
       display: flex;
@@ -215,12 +215,14 @@
       color: #000000;
       font-family: 'Kameron', serif;
       font-size: 32px;
+      width: auto;
+      height: 300px;
 
    }
 
 
    .coluna_video_card {
-      width: 100%;
+      width: auto;
       height: 300px;
       text-align: center;
    }
