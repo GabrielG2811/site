@@ -160,6 +160,7 @@
    background-image: image(card1);
     text-align: center;
     width: 300;
+    height: 360;
     text-align: center;
     justify-content: space-around;
     display: flex;
