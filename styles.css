@@ -212,8 +212,8 @@
       margin: 0px 10px 0px 10px;
     }
    .coluna_texto_card {
-      align-items: center;
-      text-align: center;
+      align-items: left;
+      text-align: left;
       justify-content: space-around;
       display: flex;
       color: #000000;
