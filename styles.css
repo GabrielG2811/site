@@ -159,7 +159,7 @@
 
    background-image: image(card1);
     text-align: center;
-    width: 677;
+    width: 307;
     height: 366px;
     text-align: center;
     justify-content: space-around;
@@ -184,7 +184,7 @@
     }
 
     .linha_imagem_card {
-      width: 677;
+      width: 307;
       height: 366px;
       text-align: center;
       justify-content: space-around;
