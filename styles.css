@@ -252,7 +252,7 @@
   
   /* Layout Responsivo transforma tudo em duas colunas para caber na tela do celular*/
   @media (max-width: 600px) {
-    nav, article {
+    .coluna_video_card, .linha_imagem_card {
       width: 100%;
       height: auto;
     }
