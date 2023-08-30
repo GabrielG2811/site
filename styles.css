@@ -184,17 +184,25 @@
     }
 
     .linha_imagem_card {
-      align-items: center;
       width: 300;
       height: 360;
+      text-align: center;
+      justify-content: space-around;
+      display: flex;
     }
 
     .linha_titulo_card {
       align-items: center;
+      text-align: center;
+      justify-content: space-around;
+      display: flex;
     }
 
     .linha_texto_card {
       align-items: center;
+      text-align: center;
+      justify-content: space-around;
+      display: flex;
     }
   
   /* Limpa seção e coluna caso não exista
