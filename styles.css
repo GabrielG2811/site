@@ -38,7 +38,7 @@
         height: 622px; 
         color: #000;
         text-align: justify;
-        font-family: Kameron;
+        font-family: 'Kameron', serif;
         font-size: 32px;
       }
 
@@ -58,7 +58,7 @@
 
     text-align: center;
     font-size: 30px;
-    font-family: Lalezar;
+    font-family: 'Lalezar', cursive;
     color: white;
     padding: 30px ;
 
@@ -94,7 +94,7 @@
   }
   .titulo2{
     color: #687843;
-    font-family: Lalezar;
+    font-family: 'Lalezar', cursive;
     font-size: 48px;
     font-style: normal;
     font-weight: 400;
@@ -109,7 +109,7 @@
   
   .item_list{
     color: #DFDED6;
-    font-family: Kameron;
+    font-family: 'Kameron', serif;
     font-size: 32px;
     padding: 25px;
   }
@@ -117,7 +117,7 @@
   .comentarios {
   
     color: #FFF;
-    font-family: Kameron;
+    font-family: 'Kameron', serif;
     font-size: 32px;
     padding: 10px;
 
@@ -125,7 +125,7 @@
   .comentarios2 {
   
     color: #939BAB;
-    font-family: Kameron;
+    font-family: 'Kameron', serif;
     font-size: 32px;
     padding: 10px;
     margin: 0px 0px 40px 15px;
@@ -134,7 +134,7 @@
 
   .titulo3{
     color: #687843;
-    font-family: Lalezar;
+    font-family: 'Lalezar', cursive;
     font-size: 48px;
     font-style: normal;
     font-weight: 400;
@@ -144,7 +144,7 @@
 
   .titulo4{
     color: #687843;
-    font-family: Lalezar;
+    font-family: 'Lalezar', cursive;
     font-size: 48px;
     font-style: normal;
     font-weight: 400;
