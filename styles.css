@@ -185,6 +185,8 @@
 
     .linha_imagem_card {
       align-items: center;
+      width: 300;
+      height: 360;
     }
 
     .linha_titulo_card {
