@@ -2,9 +2,7 @@
     box-sizing: border-box;
     margin:0 0;
     padding:0;
-
   }
-
 
   .banner {
     width: 100%;
@@ -157,7 +155,7 @@
 
   .primeiro_card {
 
-   background-image: image(card1);
+    background-image: image(card1);
     text-align: center;
     width: 307;
     height: 366px;
@@ -203,6 +201,9 @@
       text-align: center;
       justify-content: space-around;
       display: flex;
+      color: #939BAB;
+      font-family: 'Kameron', serif;
+      font-size: 32px;
     }
   
   /* Limpa seção e coluna caso não exista
