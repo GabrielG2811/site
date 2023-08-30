@@ -157,7 +157,7 @@
 
     background-image: image(card1);
     text-align: center;
-    width: 0;
+    width: 307;
     height: 366px;
     text-align: center;
     justify-content: space-around;
@@ -182,7 +182,7 @@
     }*/
 
     .linha_imagem_card {
-      width: 0;
+      width: 307;
       height: 366px;
       text-align: center;
       justify-content: space-around;
@@ -218,13 +218,13 @@
       display: flex;
       color: #000000;
       font-family: 'Kameron', serif;
-      font-size: 32px;
+      font-size: 28px;
 
    }
 
 
    .coluna_video_card {
-      width: 0;
+      width: 605;
       height: 631px;
       text-align: center;
       justify-content: space-around;
