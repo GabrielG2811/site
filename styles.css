@@ -157,7 +157,7 @@
 
     background-image: image(card1);
     text-align: center;
-    width: 100%;
+    width: 307px;
     height: 366px;
     text-align: center;
     justify-content: space-around;
@@ -182,7 +182,7 @@
     }*/
 
     .linha_imagem_card {
-      width: 100%;
+      width: 307px;
       height: 366px;
       text-align: center;
       justify-content: space-around;
@@ -212,8 +212,8 @@
       margin: 0px 10px 0px 10px;
     }
    .coluna_texto_card {
-      align-items: left;
-      text-align: left;
+      align-items: center;
+      text-align: center;
       justify-content: space-around;
       display: flex;
       color: #000000;
@@ -224,7 +224,7 @@
 
 
    .coluna_video_card {
-      width: 100%;
+      width: 605px;
       height: 631px;
       text-align: center;
       justify-content: space-around;
