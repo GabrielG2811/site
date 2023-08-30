@@ -212,9 +212,6 @@
       margin: 0px 10px 0px 10px;
     }
    .coluna_texto_card {
-      align-items: center;
-      text-align: center;
-      justify-content: space-around;
       display: flex;
       color: #000000;
       font-family: 'Kameron', serif;
@@ -226,11 +223,6 @@
    .coluna_video_card {
       width: 300;
       text-align: center;
-      justify-content: space-around;
-      display: flex;
-
-
-
    }
 
 
