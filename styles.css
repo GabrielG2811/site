@@ -158,7 +158,7 @@
     background-image: image(card1);
     text-align: center;
     width: 307px;
-    height: 366px;
+    height: 366;
     text-align: center;
     justify-content: space-around;
     display: flex;
@@ -183,7 +183,7 @@
 
     .linha_imagem_card {
       width: 307px;
-      height: 366px;
+      height: 366;
       text-align: center;
       justify-content: space-around;
       display: flex;
@@ -225,7 +225,7 @@
 
    .coluna_video_card {
       width: 605px;
-      height: 631px;
+      height: 631;
       text-align: center;
       justify-content: space-around;
       display: flex;
