@@ -224,8 +224,7 @@
 
 
    .coluna_video_card {
-      width: 605;
-      height: 631px;
+      width: 300;
       text-align: center;
       justify-content: space-around;
       display: flex;
