@@ -159,8 +159,8 @@
 
    background-image: image(card1);
     text-align: center;
-    width: 300;
-    height: 360;
+    width: 677;
+    height: 366px;
     text-align: center;
     justify-content: space-around;
     display: flex;
@@ -184,8 +184,8 @@
     }
 
     .linha_imagem_card {
-      width: 300;
-      height: 360;
+      width: 677;
+      height: 366px;
       text-align: center;
       justify-content: space-around;
       display: flex;
