@@ -185,6 +185,8 @@
     background-color: #7882D8;
     width: auto;
     height: 191px;
+    align-items: center;
+    justify-content: center;
    
   }
   .frase_rodape{
