@@ -176,11 +176,22 @@
 
     }
 
-
     .text_card {
       color: #939BAB;
       font-family: 'Kameron', serif;
       font-size: 32px;
+    }
+
+    .linha_imagem_card {
+      align-items: center;
+    }
+
+    .linha_titulo_card {
+      align-items: center;
+    }
+
+    .linha_texto_card {
+      align-items: center;
     }
   
   /* Limpa seção e coluna caso não exista
