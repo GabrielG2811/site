@@ -188,7 +188,7 @@
       justify-content: space-around;
       display: flex;
       background-color:white;
-      margin: 10px 10px 10px 10px;
+      margin: 0px 10px 0px 10px;
     }
 
     .linha_titulo_card {
@@ -197,7 +197,7 @@
       justify-content: space-around;
       display: flex;
       background-color:white;
-      margin: 10px 10px 10px 10px;
+      margin: 0px 10px 0px 10px;
     }
 
     .linha_texto_card {
@@ -209,7 +209,7 @@
       font-family: 'Kameron', serif;
       font-size: 32px;
       background-color:white;
-      margin: 10px 10px 10px 10px;
+      margin: 0px 10px 0px 10px;
     }
   
   /* Limpa seção e coluna caso não exista
