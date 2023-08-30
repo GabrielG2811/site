@@ -227,10 +227,21 @@
       text-align: center;
    }
 
-
-  /* Limpa seção e coluna caso não exista
+  .texto_video1 {
+    
+    margin: 0, 0, 30px, 15px;
   
-  */
+  }
+  .texto_video2 {
+    
+    margin: 0, 0, 30px, 15px;
+  
+  }
+  .texto_video3 {
+    
+    margin: 0, 0, 30px, 15px;
+  
+  }
   
   /* Estilo do Rodapé */
   .Rodape {
