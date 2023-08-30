@@ -195,6 +195,8 @@
     text-align: center;
     color: white;
     font-size: 35px;
+    align-items: center;
+    justify-content: center;
   }
   
   /* Layout Responsivo transforma tudo em duas colunas para caber na tela do celular*/
