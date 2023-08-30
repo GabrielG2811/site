@@ -214,14 +214,14 @@
    .coluna_texto_card {
       color: #000000;
       font-family: 'Kameron', serif;
-      font-size: 28px;
+      font-size: 32px;
 
    }
 
 
    .coluna_video_card {
-      width: 694;
-      height: 796;
+      width: 694px;
+      height: 796px;
       text-align: center;
    }
 
