@@ -229,11 +229,8 @@
 
 
   /* Limpa seção e coluna caso não exista
-    section::after {
-    content: "";
-    display: table;
-    clear: both;
-  }*/
+  
+  */
   
   /* Estilo do Rodapé */
   .Rodape {
